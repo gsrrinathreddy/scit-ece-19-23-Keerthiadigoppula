@@ -3,7 +3,7 @@ import { Typography } from '@mui/material';
 export default function About(){
     return(
         <>
-<Typography>Name: KEERHTI ADIGOPPULA</Typography>
+<Typography>Name: KEERTHI ADIGOPPULA</Typography>
 <Typography>Father Name: JANARDHAN ADIGOPPULA</Typography>
 <Typography>Mother Name: SHARADA ADIGOPPULA</Typography>
 <Typography>Email: keerthiadigoppula90@gmail.com</Typography>
